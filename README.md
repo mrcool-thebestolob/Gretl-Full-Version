@@ -239,4 +239,4 @@ This repository serves as the official landing page for Gretl. The software is d
 **Get the most recent version of Gretl today!**
 
 ---
-**Last updated:** 2026-10-08 00:31:36 UTC
+**Last updated:** 2026-10-08 06:46:03 UTC
